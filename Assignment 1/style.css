@@ -1,0 +1,43 @@
+h1{
+    color: red;
+}
+h2{
+    color: red;
+    font-style: italic;
+}
+.tet{
+    color: rgba(139, 0, 0, 0.767);
+    font-style: italic;
+}
+.test1{
+    background-color: yellow;
+    font-weight: bold;
+}
+.test3{
+     background-color: yellow;
+     font-weight: bold;
+}
+.tet{
+    text-decoration: underline;
+}
+ol{
+    color: rgba(139, 0, 0, 0.767); 
+}
+ul{
+    color: rgba(139, 0, 0, 0.767);
+    letter-spacing: 4px;
+}
+#txt{
+    color: #d2691e;
+}
+.tpt{
+    color: #d2691e;
+}
+.tmt{
+    color: #d2691e;
+}
+a{
+    background-color: yellow;
+    color: red;
+    font-style: italic;
+}
