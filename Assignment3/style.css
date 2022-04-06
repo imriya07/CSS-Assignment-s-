@@ -1,0 +1,321 @@
+.body{
+    width: 1489px;
+    height: 1700px;
+    background-color: hsla(0, 0%, 50%, 0.803);
+}
+.txt1{
+    border: 4px solid red;
+    background-color: white;
+    height: 130px;
+    width: 410px;
+    border-radius: 10px;
+    position: relative;
+    left: 550px;
+    top: 5px;
+    box-shadow: 5px 5px 0px 0px rgb(128,0,128);      
+}
+.item1{
+    color: rgb(94, 4, 94);
+    text-align: center;
+    font-weight: bold;
+    font-size: 25px;
+    font-style: italic;
+    margin-top: 10px;
+    text-shadow:  0px 0px 4px rgb(242, 15, 91);
+}
+.item2{
+    color: rgb(94, 4, 94);
+    text-align: center;
+    font-weight: bold;
+    font-size: 25px;
+    font-style: italic;
+    margin-top: 10px;
+    text-shadow:  0px 0px 4px rgb(242, 15, 91);
+}
+.item3{
+    color: rgb(94, 4, 94);
+    text-align: center;
+    font-weight: bold;
+    font-size: 25px;
+    font-style: italic;
+    margin-top: 10px;
+    text-shadow:  0px 0px 4px rgb(242, 15, 91);
+
+}
+.border{
+    border: 4px solid green;
+    width: 80px;
+    height: 750px;
+    position: relative;
+    
+    
+   padding: 700px;
+    padding-top: 40px;
+    padding-bottom: -0px;
+    
+}
+.child1{
+    border: 4px solid red;
+    background-color: white;
+    width: 350px;
+    height: 325px;
+    margin-right: 60px;
+    position: absolute;
+    top: 0;
+    right: 0;
+    border-radius: 10px;
+    box-shadow: 5px 5px 0px 0px rgb(128,0,128);   
+}
+.a1{
+   border: 2px solid black;
+   border-top: solid white; 
+   padding-top: 210px;
+   margin-top: 50px;
+   margin-left: 20px;
+   margin-right: 20px;
+   background-image: url(down.jpg)
+}
+.child2{
+    border: 4px solid red;
+    background-color: white;
+    width: 350px;
+    height: 325px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: 10px;
+    box-shadow: 5px 5px 0px 0px rgb(128,0,128);;
+}
+.a2{
+   color: #270327;
+   font-size: 35px; 
+   font-weight: bold;
+   position: relative;
+   top: 18px;
+   left: 12px;
+   text-shadow: 0px 0px 4px rgb(203, 37, 167);
+}
+.a3{
+    color: #270327;
+    font-size: 38px; 
+    font-weight: bold;
+    position: relative;
+    top: 40px;
+    left: 12px;
+    text-shadow: 0px 0px 4px rgb(203, 37, 167);
+ }
+ .a4{
+    color: #270327;
+    font-size: 40px; 
+    font-weight: bold;
+    position: relative;
+    top: 65px;
+    left: 85px;
+    text-shadow: 0px 0px 4px rgb(203, 37, 167);
+ }
+ .a5{
+    color: #270327;
+    font-size: 40px; 
+    font-weight: bold;
+    position: relative;
+    top: 85px;
+    left: 90px;
+    text-shadow: 0px 0px 4px rgb(203, 37, 167);
+
+ }
+.child3{
+    border: 4px solid red;
+    background-color: white;
+    width: 350px;
+    height: 325px;
+    margin-bottom: 20px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    border-radius: 10px;
+    box-shadow: 5px 5px 0px 0px rgb(128,0,128);
+}
+.a6{
+    color: #270327;
+   font-size: 35px; 
+   font-weight: bold;
+   position: relative;
+   top: 20px;
+   left: 12px;
+   text-shadow: 1px 1px 4px rgb(203, 37, 167);
+}
+.a7{
+    color: #270327;
+   font-size: 35px; 
+   font-weight: bold;
+   position: relative;
+   top: 20px;
+   left: 12px;
+   text-shadow: 1px 1px 4px rgb(203, 37, 167);
+}
+.child4{
+    border: 4px solid red;
+    background-color: white;
+    width: 350px;
+    height: 325px;
+    margin-right: 60px;
+    margin-bottom: 20px;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    border-radius: 10px;
+    box-shadow: 5px 5px 0px 0px rgb(128,0,128);
+}
+.a8{
+    color: #270327;
+   font-size: 35px; 
+   font-weight: bold;
+   position: relative;
+   top: 20px;
+   left: 24px;
+   text-shadow: 1px 1px 4px rgb(203, 37, 167);
+}
+.a9{
+    color: #270327;
+    font-size: 20px; 
+    font-weight: bold;
+    position: relative;
+    top: 40px;
+    left: 5px;
+    text-shadow: 1px 2px 4px rgb(203, 37, 167);
+    text-align: center;
+}
+.b9{
+    border: 1px solid black;
+    width: 120px;
+    height: 20px;
+    text-align: center;
+    margin-left: 120px;
+    margin-top: 20px;
+
+}
+.a10{
+    color: #270327;
+    font-size: 20px; 
+    font-weight: bold;
+    position: relative;
+    top: 30px;
+    left: -5px;
+    text-shadow: 1px 2px 4px rgb(203, 37, 167);
+    text-align: center; 
+}
+.a11{
+    width: 50%;
+    border: 1px solid black;
+    background-color: red;
+    color: black;
+    border-radius: 50px;
+    padding: 7px 10px;
+    margin-left: 75px;
+    text-align: center;
+}
+.child5{
+    border: 4px solid rgb(128,0,128);
+    background-color: rgb(0, 100, 0);
+    width: 910px;
+    height: 690px;
+    position: absolute;
+    top: 825px;
+    left: 275px;
+}
+.ab{
+    color: black;
+    font-weight: bold;
+    font-size: 40px;
+    position: relative;
+    top: 25px;
+    left: 260px;
+}
+.b1{
+    background-color: rgb(254, 241, 96);
+    height: 300px;
+    width: 450px;
+    position: relative;
+    top: 50px;
+}
+.b2{
+    background-color: rgb(254, 241, 96);
+    height: 300px;
+    width: 450px;
+    position: relative;
+    top: -250px;
+    left: 458px;
+}
+.b3{
+    background-color: rgb(254, 241, 96);
+    height: 280px;
+    width: 910px;
+    position: relative;
+    top: -240px;
+    left: 0px; 
+}
+.c1{
+    color: black;
+    font-weight: bold;
+    font-size: 35px;
+    position: relative;
+    top: 15px;
+    left: 180px; 
+}
+.d1{
+    color: black;
+    font-size: 19px;
+    font-weight: bold;
+    text-align: center;
+    font-style: italic;
+
+}
+.c2{
+    color: black;
+    font-weight: bold;
+    font-size: 35px;
+    position: relative;
+    top: 15px;
+    left: 140px; 
+}
+.c3{
+    color: black;
+    font-weight: bold;
+    font-size: 35px;
+    position: relative;
+    top: 15px;
+    left: 370px;  
+}
+.ri{
+    border: 4px solid red;
+    background-color: greenyellow;
+    width: 500px;
+    height: 80px;
+    position: fixed;
+    top: 600px;
+    left: 500px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 0px 0px rgb(203, 37, 167);
+}
+.txt5{
+    color: #c00c0c;
+    font-style: italic;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    position: relative;
+    top: 15px;
+    left: -120px;
+}
+.txt6{
+    color: #c00c0c;
+    font-style: italic;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    position: relative;
+    top: -50px;
+    left: 140px;
+}
+
+
